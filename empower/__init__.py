@@ -11,4 +11,4 @@ app.config.from_object(Config)
 
 
 # Import all views
-import jyl.views
+import empower.views
