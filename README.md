@@ -38,7 +38,7 @@ Report the bug [here](https://github.com/Empower-py-Organization/website/issues)
 
 ## Authors
 
-* [**Author Name**](https://github.com/RafaelCenzano)
+* [**Rafael Cenzano**](https://github.com/RafaelCenzano)
 
 ## License
 
