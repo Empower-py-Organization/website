@@ -18,14 +18,14 @@ app.config.from_object(Config)
 
 
 # Create Database object from brcrypt object
-db = SQLAlchemy(app, session_options={'expire_on_commit': False})
-bcrypt = Bcrypt(app)
+#db = SQLAlchemy(app)
+#bcrypt = Bcrypt(app)
 
 
 # Create Login manager
-login_manager = LoginManager(app)
-login_manager.login_view = 'login'
-login_manager.login_message_category = 'warning'
+#login_manager = LoginManager(app)
+#login_manager.login_view = 'login'
+#login_manager.login_message_category = 'warning'
 
 
 # importing all the models and initializing them
